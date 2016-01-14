@@ -1,2 +1,2 @@
-kuva1: https://git-scm.com/figures/18333fig0103-tn.png
-kuva2: https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
+kuva2: https://git-scm.com/figures/18333fig0103-tn.png
+kuva3: https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
