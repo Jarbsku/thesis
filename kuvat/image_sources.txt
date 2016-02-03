@@ -1,3 +1,4 @@
 kuva1: http://vignette3.wikia.nocookie.net/pelit/images/2/25/Matopeli.PNG/revision/latest?cb=20090603102830&path-prefix=fi
+kuva2: http://images.pocketgamer.co.uk/FCKEditorFiles//jamdat-bowling.jpg
 kuva3: https://git-scm.com/figures/18333fig0103-tn.png
 kuva4: https://git-scm.com/book/en/v2/Getting-Started-Git-Basics
